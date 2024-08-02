@@ -1,0 +1,44 @@
+{
+  "name": "test1",
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "lint": "eslint . --fix --ignore-path .gitignore"
+  },
+  "dependencies": {
+    "@lottiefiles/dotlottie-vue": "^0.4.3",
+    "@lottiefiles/lottie-player": "^2.0.4",
+    "core-js": "^3.34.0",
+    "font-awesome": "^4.7.0",
+    "lottie-web": "^5.12.2",
+    "roboto-fontface": "*",
+    "vue": "^3.4.0",
+    "vue3-kakao-maps": "^2.3.9",
+    "vuetify": "^3.5.0"
+  },
+  "devDependencies": {
+    "@mdi/font": "^7.4.47",
+    "@types/node": "^20.14.2",
+    "@typescript-eslint/eslint-plugin": "^7.14.1",
+    "@typescript-eslint/parser": "^7.14.1",
+    "@vitejs/plugin-vue": "^5.0.4",
+    "@vue/cli-plugin-typescript": "^5.0.8",
+    "eslint": "^8.57.0",
+    "eslint-config-standard": "^17.1.0",
+    "eslint-plugin-import": "^2.29.1",
+    "eslint-plugin-n": "^16.6.2",
+    "eslint-plugin-node": "^11.1.0",
+    "eslint-plugin-promise": "^6.1.1",
+    "eslint-plugin-vue": "^9.22.0",
+    "sass": "^1.71.1",
+    "typescript": "^5.4.5",
+    "unplugin-fonts": "^1.1.1",
+    "unplugin-vue-components": "^0.26.0",
+    "unplugin-vue-router": "^0.8.4",
+    "vite": "^5.1.5",
+    "vite-plugin-vuetify": "^2.0.3",
+    "vue-router": "^4.3.0"
+  }
+}
